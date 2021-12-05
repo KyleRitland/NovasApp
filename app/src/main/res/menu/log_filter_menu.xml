@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/filter_show_all"
+        android:title="@string/filter_show_all"
+        />
+    <item
+        android:id="@+id/filter_date"
+        android:title="@string/filter_date_range"
+        />
+
+    <item
+        android:id="@+id/filter_time"
+        android:title="@string/filter_time_range"
+        />
+
+    <item
+        android:id="@+id/filter_act"
+        android:title="@string/filter_activity_type"
+        />
+
+
+</menu>
